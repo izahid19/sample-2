@@ -7,7 +7,7 @@ function App() {
       <div>
         <h1>Hello world
         </h1>
-        <h2>this sample is not good</h2>
+        <h2>this sample is  good</h2>
       </div>
         
     </>
