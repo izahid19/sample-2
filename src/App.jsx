@@ -7,6 +7,7 @@ function App() {
       <div>
         <h1>Hello world
         </h1>
+        <h2>this sample 2</h2>
       </div>
         
     </>
