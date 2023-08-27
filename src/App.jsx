@@ -7,8 +7,12 @@ function App() {
       <div>
         <h1>Hello world
         </h1>
-        <h2>hello 2</h2>
+
+        
         <h2>hello 3</h2>
+
+        <h2>this sample 2</h2>
+
       </div>
         
     </>
